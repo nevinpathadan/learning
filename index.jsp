@@ -1,5 +1,4 @@
 
 <html>
-	Test commit to branch1
-</html
->
+	Test commit to branch2
+</html>
